@@ -49,7 +49,7 @@ public class lab4 {
                 String text = textArea.getText();
 
 
-                File dir = new File("D:\\68160018");
+                File dir = new File("D:\\68160040");
                 if (!dir.exists()) {
                     dir.mkdirs(); // สร้างโฟลเดอร์
                 }
