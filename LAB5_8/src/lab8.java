@@ -8,7 +8,7 @@ public class lab8 {
     public static void main(String[] args) {
 
         // สร้าง JFrame
-        JFrame frame = new JFrame("Patcharapa Chu 68160160 n88");
+        JFrame frame = new JFrame("Pakin Chotaxkarawattana 68160040 n73");
         frame.setSize(600, 400);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(new BorderLayout());
